@@ -23,7 +23,8 @@ ignore = [
   "D101",
   "D102",
   "D103",
-  "D107"
+  "D107",
+  "I001"
 ]
 
 [tool.ruff.format]
