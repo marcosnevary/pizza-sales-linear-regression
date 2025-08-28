@@ -22,8 +22,8 @@ Este projeto tem como objetivo analisar e prever as vendas de pizza em um superm
 
 1. Clone este repositório:
     ```
-    git clone https://github.com/marcosnevary/pizza-sales-regression.git
-    cd pizza-sales-regression
+    git clone https://github.com/marcosnevary/pizza-sales-linear-regression.git
+    cd pizza-sales-linear-regression
     ```
 2. Instale as dependências:
     ```

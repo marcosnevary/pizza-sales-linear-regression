@@ -1,7 +1,7 @@
 [project]
-name = "pizza-sales-regression"
+name = "pizza-sales-linear-regression"
 version = "0.1.0"
-description = "Add your description here"
+description = "Análise e previsão de vendas de pizza usando KDD e regressão linear (manual e com scikit-learn)."
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
