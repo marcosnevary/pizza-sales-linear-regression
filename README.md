@@ -1,6 +1,6 @@
 # 🍕 Regressão Linear com Vendas de Pizza
 
-Este projeto tem como objetivo analisar e prever as vendas de pizza em um supermercado de Belém durante o ano de 2023 usando regressão linear e o processo KDD (Knowledge Discovery in Databases) para identificar padrões e realizar previsões baseadas nos dados históricos. O projeto inclui tanto a implementação manual da regressão linear quanto o uso da biblioteca scikit-learn.
+Este projeto tem como objetivo analisar e prever as vendas de pizza em um supermercado de Belém durante o ano de 2023 usando regressão linear e o processo KDD (Knowledge Discovery in Databases). O projeto inclui tanto a implementação manual da regressão linear quanto o uso da biblioteca scikit-learn.
 
 ## Objetivos
 
